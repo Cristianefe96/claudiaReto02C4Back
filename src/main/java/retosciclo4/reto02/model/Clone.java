@@ -15,7 +15,7 @@ public class Clone {
     @Id
     private Integer id;
     private String brand;
-    private String Procesor;
+    private String procesor;
     private String os;
     private String description;
     private String memory;
